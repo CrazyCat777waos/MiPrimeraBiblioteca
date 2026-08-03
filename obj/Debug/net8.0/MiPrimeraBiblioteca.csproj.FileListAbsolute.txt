@@ -1,0 +1,12 @@
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\bin\Debug\net8.0\MiPrimeraBiblioteca.deps.json
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\bin\Debug\net8.0\MiPrimeraBiblioteca.dll
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\bin\Debug\net8.0\MiPrimeraBiblioteca.pdb
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\obj\Debug\net8.0\MiPrimeraBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\obj\Debug\net8.0\MiPrimeraBiblioteca.AssemblyInfoInputs.cache
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\obj\Debug\net8.0\MiPrimeraBiblioteca.AssemblyInfo.cs
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\obj\Debug\net8.0\MiPrimeraBiblioteca.csproj.CoreCompileInputs.cache
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\obj\Debug\net8.0\MiPrimeraBiblioteca.sourcelink.json
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\obj\Debug\net8.0\MiPrimeraBiblioteca.dll
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\obj\Debug\net8.0\refint\MiPrimeraBiblioteca.dll
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\obj\Debug\net8.0\MiPrimeraBiblioteca.pdb
+C:\Dev\Aspire\PrimerAspireBlazorASP\MiPrimeraBiblioteca\obj\Debug\net8.0\ref\MiPrimeraBiblioteca.dll
